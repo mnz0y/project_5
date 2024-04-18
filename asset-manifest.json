@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.35dc56ef.css",
-    "main.js": "/static/js/main.e6d1ebcd.js",
-    "static/js/453.81d261a3.chunk.js": "/static/js/453.81d261a3.chunk.js",
-    "static/media/contents2.jpg": "/static/media/contents2.a2aa1466d6d8fb459fd3.jpg",
-    "static/media/contents3.jpg": "/static/media/contents3.8ed74eafdad09a9d1f69.jpg",
-    "static/media/article3.jpg": "/static/media/article3.de8c67f12526912b2fe9.jpg",
-    "static/media/detailBg.png": "/static/media/detailBg.453c567cd4b26fda590e.png",
-    "static/media/article2.jpg": "/static/media/article2.ae4081d8f9040de372fb.jpg",
-    "static/media/article1.jpg": "/static/media/article1.5963ba8707657d72e29d.jpg",
-    "static/media/seoul.png": "/static/media/seoul.01dbc1ee9a5647714d29.png",
-    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/index.html",
-    "main.35dc56ef.css.map": "/static/css/main.35dc56ef.css.map",
-    "main.e6d1ebcd.js.map": "/static/js/main.e6d1ebcd.js.map",
-    "453.81d261a3.chunk.js.map": "/static/js/453.81d261a3.chunk.js.map"
+    "main.css": "/project_5/static/css/main.4271863b.css",
+    "main.js": "/project_5/static/js/main.12fd6771.js",
+    "static/js/453.81d261a3.chunk.js": "/project_5/static/js/453.81d261a3.chunk.js",
+    "static/media/contents2.jpg": "/project_5/static/media/contents2.a2aa1466d6d8fb459fd3.jpg",
+    "static/media/contents3.jpg": "/project_5/static/media/contents3.8ed74eafdad09a9d1f69.jpg",
+    "static/media/article3.jpg": "/project_5/static/media/article3.de8c67f12526912b2fe9.jpg",
+    "static/media/detailBg.png": "/project_5/static/media/detailBg.453c567cd4b26fda590e.png",
+    "static/media/article2.jpg": "/project_5/static/media/article2.ae4081d8f9040de372fb.jpg",
+    "static/media/article1.jpg": "/project_5/static/media/article1.5963ba8707657d72e29d.jpg",
+    "static/media/seoul.png": "/project_5/static/media/seoul.01dbc1ee9a5647714d29.png",
+    "static/media/slick.svg": "/project_5/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/project_5/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/project_5/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/project_5/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/project_5/index.html",
+    "main.4271863b.css.map": "/project_5/static/css/main.4271863b.css.map",
+    "main.12fd6771.js.map": "/project_5/static/js/main.12fd6771.js.map",
+    "453.81d261a3.chunk.js.map": "/project_5/static/js/453.81d261a3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.35dc56ef.css",
-    "static/js/main.e6d1ebcd.js"
+    "static/css/main.4271863b.css",
+    "static/js/main.12fd6771.js"
   ]
 }
